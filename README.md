@@ -21,9 +21,3 @@
 |**MOST USED LANGUAGES**|**LANGUAGES & TOOLS**|
 |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Cyrine-afk&show_icons=true&hide=html,twig,pug,css,scss&langs_count=6&locale=en&layout=compact&theme=tokyonight)](https://github.com/Cyrine-afk/github-readme-stats)|[![Langs and tools](https://skillicons.dev/icons?i=python,mysql,mongodb,js,java,spring,html,css,bootstrap,ts,angular,cs,dotnet,php,symfony,c,cpp,qt,mysql,git,github,postman,ps,ai,pr,ae)](https://github.com/Cyrine-afk/github-readme-stats)|
 
-
-|**PINNED REPOS**|**PINNED REPOS**|
-|:---:|:---:|
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Cyrine-afk&repo=Water-Consumption&theme=react)](https://github.com/Cyrine-afk/Water-Consumption)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Cyrine-afk&repo=Tumor-Classifier&theme=react)](https://github.com/Cyrine-afk/Tumor-Classifier)
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Cyrine-afk&repo=Facial-Recognition&theme=react)](https://github.com/Cyrine-afk/Facial-Recognition)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Cyrine-afk&repo=AirbnbRooms-MachineLearning-DataAnalysis&theme=react)](https://github.com/Cyrine-afk/AirbnbRooms-MachineLearning-DataAnalysis)
-|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Cyrine-afk&repo=CampusConnect&theme=react)](https://github.com/Cyrine-afk/CampusConnect)|[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Cyrine-afk&repo=campus-connect-angular&theme=react)](https://github.com/Cyrine-afk/campus-connect-angular)|

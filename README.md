@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working on **CampusConnect & Airbnb Rooms**
 
-- 📫 How to reach me **cyrine.trabelsi@esprit.tn**
+- 📫 How to reach me: **cyrine.trabelsi@esprit.tn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

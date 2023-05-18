@@ -2,9 +2,9 @@
 <h3 align="center">Software Engineering Student | Junior Data Analyst </h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif">
 
-- 🔭 I’m currently looking for an **end-of-studies internship** 
-
 - 🌱 I’m currently working on **CampusConnect & Airbnb Rooms**
+
+- 🔭 I’m currently looking for an **end-of-studies internship** 
 
 - 📫 How to reach me: **cyrine.trabelsi@esprit.tn**
 

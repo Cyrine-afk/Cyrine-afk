@@ -19,7 +19,7 @@
 |:---:|:---:|
 |[![Cyrine-afk's github stats](https://github-readme-stats.vercel.app/api?username=Cyrine-afk&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/Cyrine-afk/github-readme-stats)|[![Git Stats](https://github-readme-streak-stats.herokuapp.com/?user=Cyrine-afk&theme=tokyonight)](https://github.com/Cyrine-afk/github-readme-stats) |
 |MOST USED LANGUAGES|LANGUAGES & TOOLS|
-|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Cyrine-afk&show_icons=true&hide=html,twig,pug,css,scss&langs_count=6&locale=en&layout=compact&theme=tokyonight)](https://github.com/Cyrine-afk/github-readme-stats)|[![Langs and tools](https://skillicons.dev/icons?i=python,mysql,mongodb,js,java,spring,html,css,bootstrap,ts,angular,cs,dotnet,php,symfony,c,cpp,qt,mysql,git,github,postman,ps,ai,pr,ae)](https://github.com/Cyrine-afk/github-readme-stats) |
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Cyrine-afk&show_icons=true&hide=html,twig,pug,css,scss&langs_count=6&locale=en&layout=compact&theme=tokyonight)](https://github.com/Cyrine-afk/github-readme-stats)|[![Langs and tools](https://skillicons.dev/icons?i=python,mysql,mongodb,js,java,spring,html,css,bootstrap,ts,angular,cs,dotnet,php,symfony,c,cpp,qt,mysql,git,github,postman,ps,ai,pr,ae)](https://www.iconfinder.com/icons/4373169/excel_logo_logos_icon) |
 
 
 |**PINNED REPOS**|**PINNED REPOS**|

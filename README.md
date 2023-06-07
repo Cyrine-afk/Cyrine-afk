@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineering Student | Junior Data Analyst </h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif">
 
-- 🌱 I’m currently working on **Women Crying Patterns & 2023 Job Market**
+- 🌱 I’m currently working on **Twitter Sentiment Analysis**
 
 - 🔭 I’m currently looking for an **end-of-studies internship** 
 

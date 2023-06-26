@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Cyrine</h1>
-<h3 align="center">Software Engineering Student | Junior Data Analyst </h3>
+<h3 align="center">Software Engineering Student | Junior AI Engineer </h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif">
 
 - 🌱 I’m currently working on **Twitter Sentiment Analysis**

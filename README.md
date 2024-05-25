@@ -6,7 +6,7 @@
 
 - 🔭 I’m **actively looking for data analytics and consulting roles** 
 
-- 📫 How to reach me: **cyrine.trabelsi@esprit.tn**
+- 📫 How to reach me: **cyrinetrabelsi.pro@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

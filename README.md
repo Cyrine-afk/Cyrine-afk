@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently working on **Twitter Sentiment Analysis**
 
-- 🔭 I’m currently looking for an **end-of-studies internship** 
+- 🔭 I’m **actively looking for data analytics and consulting roles** 
 
 - 📫 How to reach me: **cyrine.trabelsi@esprit.tn**
 
